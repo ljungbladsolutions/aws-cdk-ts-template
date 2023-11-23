@@ -1,8 +1,8 @@
 {
-  "name": "cdk-ts-template",
+  "name": "cdktstempalate",
   "version": "0.1.0",
   "bin": {
-    "cdk-ts-template": "bin/cdk-ts-template.ts"
+    "zebrachallenge": "bin/cdk-ts-template.js"
   },
   "scripts": {
     "build": "tsc -noEmit true && npm run lint && npm run test",
